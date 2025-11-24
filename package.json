@@ -1,6 +1,6 @@
 {
   "name": "hi-supabase",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A package to keep Supabase projects alive by periodically querying the database.",
   "main": "index.js",
   "bin": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rocker1166"
+    "url": "https://github.com/rocker1166/hi_supabase"
   },
   "keywords": [
     "supabase",
